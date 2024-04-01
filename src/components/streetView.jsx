@@ -6,7 +6,7 @@ export default function StreetViewer() {
     const { Viewer } = mapillaryJs;
 
     // Define image IDs
-    const imageIds = ["3621804581407395", "302892371346632", "3306094607858929"];
+    const imageIds = ["788009593243617", "1519977948733431", "1645752876228925","1341685269855255"];
 
     // Create viewers dynamically using map()
     const viewers = imageIds.map((imageId, index) => {
@@ -35,8 +35,8 @@ export default function StreetViewer() {
         Street View
       </h1>
       <div className="grid grid-cols-1 md:grid-cols-2 m-2 p-2">
-        {Array.from({ length: 3 }, (_, index) => (
-          <div key={index} id={`mly${index + 1}`} className="h-[20rem] w-[35rem] m-2 p-2 rounded-xl"></div>
+        {Array.from({ length: 4 }, (_, index) => (
+          <div key={index} id={`mly${index + 1}`} className="h-[20rem] w-[35rem] m-2 p-2 rounded-xl overflow-hidden"></div>
         ))}
       </div>
     </>
