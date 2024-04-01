@@ -22,7 +22,9 @@ This Repository is about the Street View and 360 View of the NIT Patna Campus .
 
    - Panolens.js:
 	  - Panolens. js is an event-driven based panorama viewer that is Lightweight and flexible. It's built on top of Three. JS.
-    - Viewer of Panolens is a class from the panolens library used to create containers for displaying panoramic views in web applications. It allows for interactive panoramic experiences by providing options for auto-rotation, control bars, adding panoramas, user interaction controls like panning and zooming, and event handling capabilities.
+          - Viewer of Panolens is a class from the panolens library used to create containers for displaying panoramic views in web applications. It allows for interactive 
+            panoramic experiences by providing options for auto-rotation, control bars, adding panoramas, user interaction controls like panning and zooming, and event 
+            handling capabilities.
 	
 
 ## Features
