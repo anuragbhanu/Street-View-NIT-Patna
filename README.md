@@ -6,8 +6,8 @@ This Repository is about the Street View and 360 View of the NIT Patna Campus .
 ## Testing link : [https://nitp-street-view.netlify.app/](https://nitp-street-view.netlify.app/)
 
    - For Testing :-
-      -Street Views uploaded by myself on Mapillary.
-      -360 Images that are available on Google Maps.
+      - Street Views uploaded by myself on Mapillary.
+      - 360 Images that are available on Google Maps.
 
 ## Overview
 
